@@ -1,0 +1,5 @@
+publish: true
+type: demo
+title: Intelligent Vehicle Safety Assistant
+description: Educational 3D Webots prototype of an ESP32 vehicle-safety project with distance sensors, IMU, dashboard display, safety LEDs, low-light mode and accident demonstration.
+world: worlds/vehicle_safety.wbt
